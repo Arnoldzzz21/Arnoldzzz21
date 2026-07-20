@@ -23,13 +23,7 @@ I like turning raw data into decisions -- dashboards, models, and clear insights
 EDA, K-Means customer clustering, and a linear regression model to explain profit drivers -- wrapped in an interactive dashboard.
 [View live dashboard ->](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html)
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arnoldzzz21&hide_border=true)
-
-</div>
-
-### Let's connect
+## Let's connect
 
 <div align="center">
 
