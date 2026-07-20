@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8E44AD&height=180&section=header&text=Hi,%20I'm%20Arnoldo%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Economist+%7C+Data+Analyst;Business+Intelligence+%2B+Python;Turning+data+into+decisions)](https://github.com/Arnoldzzz21)
-
 </div>
 
 I like turning raw data into decisions -- dashboards, models, and clear insights. Background in economics, working toward data science and BI roles.
