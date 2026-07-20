@@ -27,9 +27,6 @@ EDA, K-Means customer clustering, and a linear regression model to explain profi
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnoldzzz21&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnoldzzz21&layout=compact&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arnoldzzz21&hide_border=true)
 
 </div>
