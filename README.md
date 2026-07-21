@@ -4,7 +4,11 @@
 
 </div>
 
-I like turning raw data into decisions -- dashboards, models, and clear insights. Background in economics, working toward data science and BI roles.
+"Hey there! I'm a naturally curious person who happens to have studied economics in college.
+
+Somewhere along the way, I fell completely in love with Data Science and AI—and never looked back! I’ve already been playing with data in BI and Data Science roles, turning messy spreadsheets into sleek dashboards, cool models, and clear answers that actually make sense.
+
+Working my way toward becoming a full-fledged expert in Artificial Intelligence, one dataset at a time. If there’s a good puzzle to solve with data, count me in!"
 
 <div align="center">
 
