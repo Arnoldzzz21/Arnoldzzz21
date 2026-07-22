@@ -21,7 +21,7 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 
 </div>
 
-### Featured project
+### My Projects
 
 **[Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project)**
 EDA, K-Means customer clustering, and a linear regression model to explain profit drivers -- wrapped in an interactive dashboard.
