@@ -23,9 +23,9 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 
 ### My Projects
 
-**[Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project)**
-EDA, K-Means customer clustering, and a linear regression model to explain profit drivers -- wrapped in an interactive dashboard.
-[View live dashboard ->](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html)
+| Proyecto | Descripcion | Librerias | Modelo | Resultado |
+|---|---|---|---|---|
+| [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Analisis de ventas y rentabilidad retail: EDA, segmentacion de clientes y factores que afectan el margen. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | K-Means Clustering, Regresion Lineal | [Ver dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
 
 ## Let's connect
 
