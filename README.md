@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8E44AD&height=180&section=header&text=Hi,%20I'm%20Arnoldo&fontSize=38&fontColor=ffffff&animation=fadeIn" width="620"/><img src="https://raw.githubusercontent.com/Arnoldzzz21/Arnoldzzz21/main/assets/robot.svg" width="110"/>
+<img src="https://raw.githubusercontent.com/Arnoldzzz21/Arnoldzzz21/main/assets/banner.svg" width="100%"/>
 
 </div>
 
