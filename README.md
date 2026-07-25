@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8E44AD&height=180&section=header&text=Hi,%20I'm%20Arnoldo&fontSize=38&fontColor=ffffff&animation=fadeIn)
-
-<img src="https://raw.githubusercontent.com/Arnoldzzz21/Arnoldzzz21/main/assets/robot.svg" width="100"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8E44AD&height=180&section=header&text=Hi,%20I'm%20Arnoldo&fontSize=38&fontColor=ffffff&animation=fadeIn" width="620"/><img src="https://raw.githubusercontent.com/Arnoldzzz21/Arnoldzzz21/main/assets/robot.svg" width="110"/>
 
 </div>
 
@@ -25,9 +23,10 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 
 ### My Projects
 
-| Project | Description | Libraries | Model | Result |
-|---|---|---|---|---|
-| [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Retail sales and profitability analysis: EDA, customer segmentation, and the factors that affect margin. | ![Pandas](https://img.shields.io/badge/Pandas-0288D1?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-0288D1?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0288D1?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-0288D1?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0288D1?style=flat-square) | ![K--Means_Clustering](https://img.shields.io/badge/K--Means_Clustering-0288D1?style=flat-square) ![Linear_Regression](https://img.shields.io/badge/Linear_Regression-0288D1?style=flat-square) | [View dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
+> [!NOTE]
+> | Project | Description | Libraries | Model | Result |
+> |---|---|---|---|---|
+> | [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Retail sales and profitability analysis: EDA, customer segmentation, and the factors that affect margin. | ![Pandas](https://img.shields.io/badge/Pandas-0288D1?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-0288D1?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0288D1?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-0288D1?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0288D1?style=flat-square) | ![K--Means_Clustering](https://img.shields.io/badge/K--Means_Clustering-0288D1?style=flat-square) ![Linear_Regression](https://img.shields.io/badge/Linear_Regression-0288D1?style=flat-square) | [View dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
 
 ## Let's connect
 
