@@ -6,9 +6,9 @@
 
 "Hey there! I'm a naturally curious person who happens to have studied economics in college.
 
-Somewhere along the way, I fell completely in love with Data Science and AI—and never looked back! I’ve already been playing with data in BI and Data Science roles, turning messy spreadsheets into sleek dashboards, cool models, and clear answers that actually make sense.
+Somewhere along the way, I fell completely in love with Data Science and AI—and never looked back! I've already been playing with data in BI and Data Science roles, turning messy spreadsheets into sleek dashboards, cool models, and clear answers that actually make sense.
 
-Working my way toward becoming a full-fledged expert in Artificial Intelligence, one dataset at a time. If there’s a good puzzle to solve with data, count me in!"
+Working my way toward becoming a full-fledged expert in Artificial Intelligence, one dataset at a time. If there's a good puzzle to solve with data, count me in!"
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 > [!NOTE]
 > | Project | Description | Libraries | Model | Result |
 > |---|---|---|---|---|
-> | [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Retail sales and profitability analysis: EDA, customer segmentation, and the factors that affect margin. | ![Pandas](https://img.shields.io/badge/Pandas-0288D1?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-0288D1?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0288D1?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-0288D1?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0288D1?style=flat-square) | ![K--Means_Clustering](https://img.shields.io/badge/K--Means_Clustering-0288D1?style=flat-square) ![Linear_Regression](https://img.shields.io/badge/Linear_Regression-0288D1?style=flat-square) | [View dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
+> | [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Retail sales and profitability analysis: EDA, customer segmentation, and the factors that affect margin. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | K-Means Clustering, Linear Regression | [View dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
 
 ## Let's connect
 
