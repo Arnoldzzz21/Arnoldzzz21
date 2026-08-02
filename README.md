@@ -27,6 +27,7 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 > | Project | Description | Libraries | Model | Result |
 > |---|---|---|---|---|
 > | [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Retail sales and profitability analysis: EDA, customer segmentation, and the factors that affect margin. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | K-Means Clustering, Linear Regression | [View dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
+> | [Motorcycle Price Prediction](https://github.com/Arnoldzzz21/motorcycle-price-prediction) | Predicting used motorcycle resale price from brand, category, year, condition, and mileage — ~7,600 real listings across 6 brands. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost | Linear Regression, Random Forest, Gradient Boosting, XGBoost (tuned) | [View code](https://github.com/Arnoldzzz21/motorcycle-price-prediction) |
 
 ## Let's connect
 
