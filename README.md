@@ -16,7 +16,6 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -34,9 +33,5 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnoldo-cuellar-47122a227/)
-
-San Salvador, El Salvador
-
-![Profile views](https://komarev.com/ghpvc/?username=Arnoldzzz21&color=blue&style=flat)
 
 </div>
