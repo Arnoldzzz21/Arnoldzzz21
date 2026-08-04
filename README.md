@@ -27,11 +27,3 @@ Working my way toward becoming a full-fledged expert in Artificial Intelligence,
 > |---|---|---|---|---|
 > | [Superstore Sales & Profitability Analysis](https://github.com/Arnoldzzz21/Superstore-Project) | Retail sales and profitability analysis: EDA, customer segmentation, and the factors that affect margin. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | K-Means Clustering, Linear Regression | [View dashboard](https://arnoldzzz21.github.io/Superstore-Project/dashboardsuperstore.html) |
 > | [Motorcycle Price Prediction](https://github.com/Arnoldzzz21/motorcycle-price-prediction) | Predicting used motorcycle resale price from brand, category, year, condition, and mileage — 6,283 cleaned listings across 6 brands. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost | Linear Regression, Random Forest, Gradient Boosting, XGBoost (tuned) | [View dashboard](https://arnoldzzz21.github.io/motorcycle-price-prediction/dashboard.html) |
-
-## Let's connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnoldo-cuellar-47122a227/)
-
-</div>
