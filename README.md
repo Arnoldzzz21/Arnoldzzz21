@@ -4,11 +4,11 @@
 
 </div>
 
-"Hey there! I'm a naturally curious person who happens to have studied economics in college.
+"Hi! I'm a curious person with a background in Economics who discovered a passion for Data Science and AI.
 
-Somewhere along the way, I fell completely in love with Data Science and AI and never looked back! I've already been playing with data in BI and Data Science roles, turning messy spreadsheets into sleek dashboards, cool models, and clear answers that actually make sense.
+I've worked with data in BI and Data Science, turning complex information into useful dashboards, models, and insights.
 
-Working my way toward becoming a full-fledged expert in Artificial Intelligence, one dataset at a time. If there's a good puzzle to solve with data, count me in!"
+I'm currently growing my skills in Artificial Intelligence and always enjoy solving problems with data."
 
 <div align="center">
 
